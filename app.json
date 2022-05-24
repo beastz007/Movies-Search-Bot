@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/thecyberweapon/EvaMaria",
-    "repository": "https://github.com/thecyberweapon/EvaMaria",
+    "repository": "https://github.com/beastz007/Movies-Search-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
